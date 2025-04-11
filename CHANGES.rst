@@ -6,6 +6,15 @@ Changelog
 
 .. towncrier release notes start
 
+1.1 (2025-04-11)
+----------------
+
+Bug fixes:
+
+
+- - Fix dependency name (internal)
+
+
 1.0 (2025-04-11)
 ----------------
 
