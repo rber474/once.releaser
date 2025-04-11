@@ -58,7 +58,7 @@ profile = "plone"
 
 [tool.zest-releaser]
 extra-message = "[ci skip]"
-tag-signing = true
+tag-signing = false
 
 [tool.black]
 target-version = ["py311"]
