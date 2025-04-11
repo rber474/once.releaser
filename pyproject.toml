@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "once.releaser"
-version = "1.0.dev0"
+version = "1.0"
 description = "Custom releaser hooks for ONCE project based on zest.releaser"
 license = {text = "GPL"}
 authors = [
